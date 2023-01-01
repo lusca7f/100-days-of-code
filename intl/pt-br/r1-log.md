@@ -1,11 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Seu nome aqui]
+# #100DaysOfCode Log - Round 1 - [Lucas Vieira]
 
-O log do meu desafio #100DaysOfCode. Iniciado em [17 de julho, segunda-feira, 2017].
+O log do meu desafio #100DaysOfCode. Iniciado em [1 de Janeiro, domingo, 2022].
 
 ## Log
 
 ### R1D1 
 
-Iniciei um app de previsão do tempo. Trabalhei no rascunho do layout e tive dificuldades com a API OpenWeather http://www.example.com
+Criei uma função que pega a idade e a retorna em dias. Não tive dificuldades em escrever o código. https://github.com/lusca7f/idade-em-dias/tree/master 
 
 ### R1D2
